@@ -46,4 +46,4 @@ jobs:
 
           name: Future Crack
 
-          path: ./build/libs/Future Crack.jar
+          path: ./
